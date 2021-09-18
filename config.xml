@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <sorting-order>Ascending</sorting-order>
+  <is-devmode>false</is-devmode>
+  <label>
+    <axis-x>emissions (MtC)</axis-x>
+    <axis-y>carbon price(1990$/tC)</axis-y>
+    <title>Emissions</title>
+  </label>
+  <keywords>
+    <keyword>aglu</keyword>
+    <keyword>aglu related</keyword>
+    <keyword>building</keyword>
+    <keyword>industry</keyword>
+    <keyword>other transformation</keyword>
+    <keyword>power sector</keyword>
+    <keyword>transportation</keyword>
+    <keyword>others</keyword>
+  </keywords>
+</config>
